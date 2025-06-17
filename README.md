@@ -20,6 +20,11 @@ O dashboard desenvolvido no Power BI oferece uma visão abrangente do desempenho
 - Ocorrências: Mapeamento das ocorrências mais frequentes, permitindo a identificação de gargalos operacionais e a implementação de ações preventivas.
 - Destinos: Análise dos destinos das entregas para otimização de rotas e identificação de áreas com maior volume ou problemas específicos.
 
+
+![Dashboard](https://github.com/user-attachments/assets/2c86dfde-678f-4004-958b-57e3c7e8a266)
+
+
+
 ## Principais Insights e Oportunidades de Melhoria
 - Ações de Curto Prazo:
 
